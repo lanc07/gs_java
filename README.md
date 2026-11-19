@@ -4,7 +4,7 @@ Global Solution · Programação Orientada a Objetos
 
 **Integrantes:** 
 - Allan de Souza Cardoso · RM 561721
-- Júlia Borges Paschoalinoto · 564725
+- Júlia Borges Paschoalinoto · RM 564725
 
 
 ---
