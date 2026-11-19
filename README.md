@@ -56,7 +56,7 @@ A opção de ajustar limites de alerta exige o código **`1306`**.
 
 ---
 
-## 3. O que o sistema faz
+## O que o sistema faz
 
 | Opção do menu | Função |
 |---|---|
